@@ -13,6 +13,7 @@ namespace git_cs01
             Console.WriteLine("Hikaru Yoshida");
             Console.WriteLine("Hikaru Yoshida");
             Console.WriteLine("Hikaru Yoshida");
+            Console.WriteLine("★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★");
         }
     }
 }

@@ -11,6 +11,8 @@ namespace git_cs01
         static void Main(string[] args)
         {
             Console.WriteLine("Hikaru Yoshida");
+            Console.WriteLine("Hikaru Yoshida");
+            Console.WriteLine("Hikaru Yoshida");
         }
     }
 }
